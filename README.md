@@ -13,3 +13,7 @@ The database consists of the following tables:
 5. **student_grades**: Stores students' grades for each module.
 6. **groups**: Contains group numbers for students.
 7. **students_modules**: Associates students with the modules they are enrolled in.
+
+## 📁 Accessing Database Scripts
+
+To access the SQL scripts for the database, please visit the [university branch](https://github.com/wilkuplyt/SQL/tree/university).
